@@ -6,6 +6,7 @@ const AddCategory = ({ setCategory }) => {
 
   const handleInputChange = (e) => {
     setInputValue(e.target.value);
+    console.log("input llamado");
   };
 
   const handleSubmit = (e) => {
