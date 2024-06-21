@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -39,6 +39,6 @@
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.5",
     "enzyme": "^3.11.0",
     "enzyme-to-json": "^3.6.2",
-    "jest": "^26.6.0"
+    "jest": "^29.7.0"
   }
 }
